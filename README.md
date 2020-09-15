@@ -3,7 +3,7 @@
 ## Project Write-up
 1. UML Diagrams
 
-     Activity Diagram 
+     <u>Activity Diagram</u> 
      
       ![Activity Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Activity%20UML.jpg)
       
