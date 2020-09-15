@@ -40,10 +40,8 @@
    ![frond end 3](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/front%20end%20part%203.jpg)
 
 ## Instructions
-   
-   Backend: start up local blcokchain
-   - In the root folder directory, run "truffle migrate --reset"
-
-   Frontend: start up frontend interface
-   - In a separate terminal window, run "npm run dev"
-
+   - run "npm install" to install required modules
+   - Backend: start up local blcokchain
+          - In the root folder directory, run "truffle migrate --reset"
+   - Frontend: start up frontend interface
+          - In a separate terminal window, run "npm run dev"
