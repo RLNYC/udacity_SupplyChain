@@ -10,8 +10,12 @@
     State Diagram
 
       ![State Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/State%20UML.jpg)
+      
+    Sequence Diagram
 
      ![Sequence Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Sequence%20UML.jpg)
+     
+    Data Model Diagram
 
      ![Data Model Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Data%20Model%20UML.jpg)
 
@@ -27,11 +31,13 @@
 
 ## Truffle - Passing Test
 
-    ![Passing Tests](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/passing%20tests.jpg)
+   ![Passing Tests](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/passing%20tests.jpg)
 
 ## Front end screen shot
 
-    ![frond end 1](https://raw.githubusercontent.com/RLNYC/udacity_StarNotary/master/screenshots/passing%20test.jpg)
+   ![frond end 1](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/front%20end%20part%201.jpg)
+   ![frond end 2](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/front%20end%20part%202.jpg)
+   ![frond end 3](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/screenshots/front%20end%20part%203.jpg)
 
 ## Instructions
    
