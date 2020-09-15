@@ -3,9 +3,13 @@
 ## Project Write-up
 1. UML Diagrams
 
-     ![Activity Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Activity%20UML.jpg)
+     Activity Diagram 
+     
+      ![Activity Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Activity%20UML.jpg)
+      
+    State Diagram
 
-     ![State Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/State%20UML.jpg)
+      ![State Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/State%20UML.jpg)
 
      ![Sequence Diagram](https://raw.githubusercontent.com/RLNYC/udacity_SupplyChain/master/UML/outputs/Sequence%20UML.jpg)
 
